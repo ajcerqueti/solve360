@@ -1,5 +1,5 @@
 {
-    "name": "squareupmedia/solve360",
+    "name": "sum/solve360",
     "type": "library",
     "description": "Service gateway class used to access Solve360 via external API, accessible via Composer",
     "homepage": "https://github.com/squareupmedia/solve360",
@@ -17,7 +17,7 @@
     "keywords": [
         "solve360"
     ],
-    "version": "0.7.0",
+    "version": "0.7.1",
     "require": {
         "php": ">=5.5"
     },
