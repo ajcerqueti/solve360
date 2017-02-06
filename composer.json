@@ -1,0 +1,29 @@
+{
+    "name": "squareupmedia/solve360",
+    "type": "library",
+    "description": "Service gateway class used to access Solve360 via external API, accessible via Composer",
+    "homepage": "https://github.com/squareupmedia/solve360",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "AJ Cerqueti",
+            "email": "aj@cerqueti.co.uk"
+        },
+	{
+            "name": "Norada Corporation",
+            "homepage": "http://www.norada.com"
+	}
+    ],
+    "keywords": [
+        "solve360"
+    ],
+    "version": "0.7.0",
+    "require": {
+        "php": ">=5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Solve360\\": "src/"
+        }
+    }
+}
